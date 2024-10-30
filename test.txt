@@ -1,3 +1,5 @@
 Hello world
 change for conflict
 file updated !!!
+
+new line
