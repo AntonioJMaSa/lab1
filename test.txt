@@ -1,5 +1,2 @@
 Hello world
-
-file updated !!!
-
 new line
